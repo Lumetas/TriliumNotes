@@ -1,0 +1,2 @@
+# \Lumetas\TriliumNotes\Exception
+

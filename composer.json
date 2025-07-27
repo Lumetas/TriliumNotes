@@ -1,0 +1,16 @@
+{
+    "name": "lumetas/trilium-notes",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lumetas\\TriliumNotes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lumetas",
+            "email": "lumetas506@gmail.com"
+        }
+    ],
+    "require": {}
+}
