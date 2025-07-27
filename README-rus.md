@@ -38,7 +38,7 @@ $note = $trilium->createNote(
 );
 
 // Получение содержимого
-echo $note->getNote()->getContent();
+echo $note->getContent();
 ```
 
 ## Основные классы
