@@ -1,6 +1,6 @@
 # TriliumNotesPHP
 
-## Оглавление
+## Языки
 
 -   [*Русская версия*](README-rus.md)
 -   [*English version*](README.md)
